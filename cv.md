@@ -1,9 +1,13 @@
 # 📄 Curriculum Vitae  
 
 **Valentin Anashkin**  
+
 📍 Saint Petersburg, Russia  
+
 📧 steppenwolffenrir@gmail.com
+
 ☎️ +7 995 235 25 84
+
 🔗 [github.com/SteppenWolfFenrir](https://github.com/SteppenWolfFenrir)  
 
 ---
