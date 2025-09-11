@@ -1,0 +1,10 @@
+body {
+  background-color: darkslateblue;
+}
+
+.header__title {
+  display: flex;
+  justify-content: center;
+
+  color: #F8F8FF;
+}
